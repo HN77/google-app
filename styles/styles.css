@@ -101,7 +101,7 @@ content {
  grid-column: 3 / 7;
  grid-row: 3 / 4;
  height: 2.5rem;
- border: 1px solid ##d6dee7;
+ border: 1px solid #b8bfc6;
  border-radius: 5rem;
 
  display: flex;
